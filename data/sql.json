@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "question": "Which SQL clause is used to filter records after aggregation with GROUP BY?",
+    "type": "mcq",
+    "options": ["WHERE", "HAVING", "FILTER", "ORDER BY"],
+    "answer": 1
+  },
+  {
+    "id": 2,
+    "question": "Which JOIN returns all records when there is a match in either left or right table?",
+    "type": "mcq",
+    "options": ["INNER JOIN", "LEFT JOIN", "RIGHT JOIN", "FULL OUTER JOIN"],
+    "answer": 3
+  }
+]
